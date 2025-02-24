@@ -22,5 +22,5 @@ jobs:
 
     - name: Run pylint
       run: |
-        pylint your_code.py
+        pylint task2.py
 
